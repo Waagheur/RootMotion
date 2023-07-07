@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/TestChar.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/TestTree.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/TestController.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LU/2RZT21H1HGMJSAZO0L3FR2.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QI/GEI1AFLS23FRRAQN1NOYIE.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/NG/A9CB3929M9LJP6S9VT18AN.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/4O/1BITPBEJ22ZDUJF1YGPU91.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/MM_Run_Fwd_Montage.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/TestChar1.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/TestController2.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/VZ/L8FROPN2N51S53CP952IDJ.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/ABP_Manny1.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3X/T9U807AXD19C0TXAASZTC4.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/TestBP.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/96/RBBBYAOVAJO62LJ2LSZFOL.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/SurfaceActor.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/H6/VWGBQD0PSXHS2UBMI13Z0U.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/AS_SM_Sword_Attack01_Fast.uasset",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Nathan/Desktop/EPIC TO REMOVE/RootMotion/RootMotion/Content/NewAnimMontage.uasset"
+			]
+		}
+	]
+}
